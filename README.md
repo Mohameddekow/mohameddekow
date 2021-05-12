@@ -3,5 +3,5 @@
 
 I'm **Mohameddekow** an Android Developer and Machine Learning(ML) enthusiast || based in Nairobi, Kenya.
 
-Find me on.
-* <img src = "https://user-images.githubusercontent.com/61431856/117947153-98424900-b318-11eb-9633-a30b8b2b8ef3.jpeg" alt = " LinkedIn Image" height = "50px" width ="100px"/>
+# Find me on.
+## [<img src="https://user-images.githubusercontent.com/61431856/117949030-6205c900-b31a-11eb-82c1-9466a0d34c38.png" height = "35px" width ="100px"/>](https://twitter.com/MoahmedDekow)
