@@ -19,10 +19,12 @@
 
 <br/>
 
-<p align="start" justify-content="center" align="center" display="inline-block" white-space="nowrap" word-break="keep-all" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mohameddekow&show_icons=true&locale=en" alt="moha" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohameddekow&show_icons=true&locale=en&layout=compact" alt="dek" /></p>
+<p align="start" justify-content="center" align="center" display="inline-block" white-space="nowrap" word-break="keep-all" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mohameddekow&show_icons=true&locale=en" alt="moha" /> </p>
 
-<!--  total contribusion stats-->
-<!--  <p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohameddekow&" alt="dek" /> </p> -->
+
+<!-- 
+<p align="start" justify-content="center" align="center" display="inline-block" white-space="nowrap" word-break="keep-all" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mohameddekow&show_icons=true&locale=en" alt="moha" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohameddekow&show_icons=true&locale=en&layout=compact" alt="dek" /></p> -->
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 
