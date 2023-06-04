@@ -11,16 +11,13 @@
 
 - 📫 How to reach me **mohameddekow53@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://twitter.com/mohamed_degow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dekow" height="30" width="40" /></a>
- 
-<a href="https://www.linkedin.com/in/mohamed-dekow-5baaa11a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dekow" height="30" width="40" /></a>
+<a href="https://twitter.com/mohamed_degow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dijiflex" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-dekow-5baaa11a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dijiflex" height="30" width="40" /></a>
 </p>
 
-
-
-
+<br/>
 
 <p align="start" justify-content="center" align="center" display="inline-block" white-space="nowrap" word-break="keep-all" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mohameddekow&show_icons=true&locale=en" alt="moha" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohameddekow&show_icons=true&locale=en&layout=compact" alt="dek" /></p>
 
