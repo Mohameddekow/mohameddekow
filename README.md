@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Dekow</h1>
 <h3 align="center">I'm a Software Engineer, eager to build dynamic products and use technology to make a difference</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohameddekow&label=Profile%20views&color=0e75b6&style=flat" alt="salah5495" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohameddekow&label=Profile%20views&color=0e75b6&style=flat" alt="moha" /> </p>
 
 
 
